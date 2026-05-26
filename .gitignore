@@ -1,0 +1,91 @@
+# =========================
+# UNITY
+# =========================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# =========================
+# ML-AGENTS / TRAINING
+# =========================
+
+results/
+models/
+summaries/
+*.onnx
+*.pt
+
+# Tensorboard logs
+runs/
+
+# =========================
+# PYTHON
+# =========================
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Poetry
+poetry.lock
+
+# Conda
+.conda/
+
+# =========================
+# IDEs
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+# OS FILES
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# UNITY GENERATED FILES
+# =========================
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# =========================
+# CRASH / DEBUG
+# =========================
+
+sysinfo.txt
+*.stacktrace
+
+# =========================
+# OPTIONAL LARGE ASSETS
+# =========================
+
+# Uncomment if needed
+# Assets/Recordings/
+# Assets/TrainingVideos/
+# Assets/Datasets/
