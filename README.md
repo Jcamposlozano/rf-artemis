@@ -409,6 +409,4 @@ mlagents-learn ship_orbit_moon.yaml --run-id=phase3_stable_v1 --force
 
 # 👨‍💻 Author
 
-Guillermo Campos Lozano  
-PhD(c) in Artificial Intelligence  
-Director — AI Factory
+Jonathan Campos Lozano  
